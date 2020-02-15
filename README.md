@@ -1,30 +1,21 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *cra-starter*
+# *node-cli-starter*
 
-Minimalistic [*Create React App*](https://github.com/facebook/create-react-app) starter
+Node CLI starter
 
 UNDER DEVELOPMENT
 
 ## Feature tags
 
-- create-react-app
+- cli
+- node
 - starter
 - template
 
-## Direct descendants - also by code
-
-[*cra-maven-war-starter*](https://github.com/softspiders/cra-maven-war-starter)
-
-## Requirements
-
-* [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*Node*](https://nodejs.org/en/download/package-manager/)
-
-
 ## Author
 
-TBD
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <alexanderlapygin@gmail.com>
 
 ### License
 
