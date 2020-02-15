@@ -10,7 +10,6 @@ Node CLI starter
 - node
 - starter
 - template
-- under-dev
 
 ---
 
