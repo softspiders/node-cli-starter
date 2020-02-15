@@ -11,8 +11,7 @@
     "cli",
     "node",
     "starter",
-    "template",
-    "ts"
+    "template"
   ],
   "author": "Alexander Lapygin",
   "license": "MIT",
