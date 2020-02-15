@@ -4,8 +4,6 @@
 
 Node CLI starter
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - cli
@@ -14,9 +12,33 @@ UNDER DEVELOPMENT
 - template
 - under-dev
 
+---
+
+## Requirements
+
+[NodeJS](https://nodejs.org/en/)
+
 ## Author
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) <alexanderlapygin@gmail.com>
+
+## Install
+
+```sh
+npm i -global
+```
+
+## Run
+
+```sh
+node-cli-starter
+```
+
+Should see:
+
+```sh
+Hello, Node CLI !
+```
 
 ### License
 
