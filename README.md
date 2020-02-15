@@ -20,7 +20,7 @@ Node CLI starter
 
 ## Author
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin) <alexanderlapygin@gmail.com>
+[Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
 ## Install
 
