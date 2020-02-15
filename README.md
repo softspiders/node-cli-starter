@@ -13,6 +13,9 @@ Node CLI starter
 
 ---
 
+## Direct ancestors
+[Minimalistic JavaScript starter](https://github.com/softspiders/javascript)
+
 ## Requirements
 
 [NodeJS](https://nodejs.org/en/)
