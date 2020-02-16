@@ -17,7 +17,7 @@ Node CLI starter
 [Minimalistic JavaScript starter](https://github.com/softspiders/javascript)
 
 ## Direct descendants
-[node-cli-ts-starter](https://github.com/softspiders/node-cli-ts-starter)
+[node-cli-commander-ts-jest-starter](https://github.com/softspiders/node-cli-commander-ts-jest-starter)
 
 
 ## Requirements
